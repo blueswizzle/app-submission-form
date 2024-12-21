@@ -68,7 +68,7 @@ const ListingForm = () => {
 
 
     return (
-        <div className="flex flex-col items-center p-4">
+        <div className="flex flex-col items-center p-6">
             <h1 className="text-red-600 font-bold text-2xl mb-4">JOIN THE REVOLUTION</h1>
             <h2>List Your:</h2>
             <p>Muslim Owned Businesses</p>
@@ -239,7 +239,7 @@ const ListingForm = () => {
                 </div>
 
                 {/* Submit Button */}
-                <div className="flex justify-center">
+                <div className="flex justify-center mb-3">
                     <button
                         type="submit"
                         className="bg-green-600 text-white font-bold py-2 px-4 rounded hover:bg-green-700"
