@@ -4,7 +4,7 @@ const About = () => {
     return (
         <>
             <h1 className='font-bold text-center text-2xl my-7'>About Us</h1>
-            <div className='flex items-center justify-center mb-5'>
+            <div className='flex items-center justify-center mb-5 p-3'>
                 <section className='border p-2 lg:w-1/2'>
                     <h1 className='mb-4'> <span className='font-bold'>CREED</span> is a <span className='font-bold'>Commerce Platform & Global Business Directory Serving The Muslim Community</span></h1>
                     <p className='font-bold'>Our mission is to:</p>
