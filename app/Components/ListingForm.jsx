@@ -73,7 +73,7 @@ const ListingForm = () => {
             <h2>List Your:</h2>
             <p>Muslim Owned Businesses</p>
             <p>Muslim Operated Businesses</p>
-            <p>Businesses Serving the Muslim Community</p>
+            <p>Businesses Serving The Muslim Community</p>
             <form className="mt-6 w-full max-w-lg" onSubmit={handleSubmit}>
                 {/* Personal Information Section */}
 
@@ -214,7 +214,7 @@ const ListingForm = () => {
                             htmlFor="servingMuslimCommunity"
                             className="font-medium"
                         >
-                            Serving the Muslim Community
+                            Serving The Muslim Community
                         </label>
                     </div>
                 </div>
