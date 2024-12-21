@@ -224,7 +224,7 @@ const ListingForm = () => {
                 <div className="flex flex-col items-center mb-4">
                     <label
                         htmlFor="additionalInfo"
-                        className="text-right pr-4 font-medium"
+                        className="text-left pr-4 font-medium"
                     >
                         Tell us more about your business (optional)
                     </label>
