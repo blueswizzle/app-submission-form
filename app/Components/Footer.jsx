@@ -11,11 +11,12 @@ const Footer = () => {
                     <Link href='/about' className='text-xl'>About Us</Link>
                 </div>
 
-                <p className='text-center text-xs'>
+                <p className='text-center' style={{ fontSize: '8px' }}>
                     Copyright &copy; {new Date().getFullYear()} OUR CREED - All rights reserved.
                 </p>
 
-            </footer>
+
+            </footer >
         </>
     )
 }
