@@ -4,7 +4,7 @@ import React from 'react'
 const Footer = () => {
     return (
         <>
-            <footer className='flex flex-col items-center justify-center'>
+            <footer className='flex flex-col items-center justify-center border-t-2 p-4'>
                 <div>
                     <Link href='/' className='text-xl'>Home</Link>
                     <span className='text-gray-400 text-2xl font-medium'> | </span>
