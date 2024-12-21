@@ -239,7 +239,7 @@ const ListingForm = () => {
                 </div>
 
                 {/* Submit Button */}
-                <div className="flex justify-center mb-3">
+                <div className="flex justify-center my-10">
                     <button
                         type="submit"
                         className="bg-green-600 text-white font-bold py-2 px-4 rounded hover:bg-green-700"
