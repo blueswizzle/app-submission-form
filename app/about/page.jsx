@@ -12,7 +12,7 @@ const About = () => {
                         <li>Connect Businesses to Muslims (B2C and B2B)</li>
                         <ol className='list-[lower-alpha] pl-5'>
                             <li><span className='font-bold italic'>Business to Consumer</span> - Connect with your customer and grow your business!</li>
-                            <li> <span className='font-bold italic'>Business to Business</span> - Connect to our CREED B2B Ecosystem!</li>
+                            <li><span className='font-bold italic'>Business to Business</span> - Connect to our CREED B2B Ecosystem!</li>
                         </ol>
                         <li>Engage, empower, and serve the ummah</li>
                     </ol>
